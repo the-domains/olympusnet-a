@@ -6,9 +6,9 @@ color:
   saturation: 0.9839629118796438
   rhythmicContrast: 0.8338496366050094
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: OlympusNet-A
