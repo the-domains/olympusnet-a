@@ -1,0 +1,14 @@
+layout_spectrum: 0.9546295423060656
+typography_spectrum: 0.04574501421302557
+color:
+  brandStrength: 0.785191967850551
+  lightness: 0.9300041999667883
+  saturation: 0.9839629118796438
+  rhythmicContrast: 0.8338496366050094
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: OlympusNet-A
